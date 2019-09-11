@@ -2,10 +2,11 @@
 #define STATE_H
 
 class State{
-	char special;
-	char[] validTransitions;
-	int name;
-}
+	public:
+		char special;
+		//char[] validTransitions;
+		int name;
+};
 
 
 
